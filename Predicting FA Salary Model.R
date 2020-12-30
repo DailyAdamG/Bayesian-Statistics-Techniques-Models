@@ -1,6 +1,6 @@
 #Setting directory
 
-Bayesian-Statistics-Techniques-Models
+setwd("C:/Users/daily/Desktop/Bayesian-Statistics-Techniques-Models")
 
 #Importing Data
 
